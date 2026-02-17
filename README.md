@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Greatness 👩🏽‍💻
 
-<!--
-**greatnessawara/greatnessawara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps & Cloud Engineer in progress  
+🔐 Interested in DevSecOps & Infrastructure Security  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Linux
+- Python / Bash
+- Docker
+- Kubernetes
+- GitHub Actions
+- CI/CD
+- Ansible 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Projects
+- Secure 3-Tier Infrastructure with Terraform
+- Aws
+
+## 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/awara-greatness-1a8b03276/
+Email: betinoawara0@gmail.com
